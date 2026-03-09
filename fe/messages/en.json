@@ -1,0 +1,43 @@
+{
+    "Navbar": {
+        "lessons": "Lessons",
+        "flashcards": "Flashcards",
+        "dictionary": "Dictionary",
+        "hsk": "HSK Levels",
+        "login": "Login",
+        "startLearning": "Start Learning",
+        "language": "Language"
+    },
+    "Home": {
+        "title": "Learn Chinese the Smart Way",
+        "subtitle": "Master vocabulary, flashcards and HSK levels with XueXi Hanyu.",
+        "startLearning": "Start Learning",
+        "browseLessons": "Browse Lessons",
+        "featuresTitle": "Features",
+        "features": {
+            "vocabulary": {
+                "title": "Vocabulary Lessons",
+                "description": "Interactive lessons to build your fundamental Chinese vocabulary."
+            },
+            "flashcards": {
+                "title": "Flashcards",
+                "description": "Spaced repetition flashcards for efficient memorization."
+            },
+            "dictionary": {
+                "title": "Chinese Dictionary",
+                "description": "Comprehensive dictionary with pinyin and stroke order."
+            }
+        },
+        "hskTitle": "HSK Learning Path",
+        "demoTitle": "Chinese Translator",
+        "demoPlaceholder": "Enter Chinese text (e.g. 你好)",
+        "demoButton": "Translate",
+        "demoChinese": "Chinese",
+        "demoPinyin": "Pinyin",
+        "demoEnglish": "English",
+        "demoVietnamese": "Vietnamese",
+        "demoNotFound": "Word not found",
+        "ctaTitle": "Ready to start learning Chinese?",
+        "ctaButton": "Start Learning Now"
+    }
+}

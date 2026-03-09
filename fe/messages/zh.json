@@ -1,0 +1,43 @@
+{
+    "Navbar": {
+        "lessons": "课程",
+        "flashcards": "抽认卡",
+        "dictionary": "词典",
+        "hsk": "HSK 级别",
+        "login": "登录",
+        "startLearning": "开始学习",
+        "language": "语言"
+    },
+    "Home": {
+        "title": "聪明地学习中文",
+        "subtitle": "使用 XueXi Hanyu 掌握词汇、抽认卡和 HSK 级别。",
+        "startLearning": "开始学习",
+        "browseLessons": "浏览课程",
+        "featuresTitle": "特色",
+        "features": {
+            "vocabulary": {
+                "title": "词汇课程",
+                "description": "建立基本中文词汇的互动课程。"
+            },
+            "flashcards": {
+                "title": "抽认卡",
+                "description": "用于高效记忆的间隔重复抽认卡。"
+            },
+            "dictionary": {
+                "title": "中文字典",
+                "description": "包含拼音和笔顺的综合字典。"
+            }
+        },
+        "hskTitle": "HSK 学习路径",
+        "demoTitle": "中文翻译器",
+        "demoPlaceholder": "输入中文（例如：你好）",
+        "demoButton": "翻译",
+        "demoChinese": "中文",
+        "demoPinyin": "拼音",
+        "demoEnglish": "英语",
+        "demoVietnamese": "越南语",
+        "demoNotFound": "未找到该词",
+        "ctaTitle": "准备好开始学习中文了吗？",
+        "ctaButton": "立即开始学习"
+    }
+}

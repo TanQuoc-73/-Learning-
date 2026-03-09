@@ -1,0 +1,43 @@
+{
+    "Navbar": {
+        "lessons": "Bài học",
+        "flashcards": "Thẻ ghi nhớ",
+        "dictionary": "Từ điển",
+        "hsk": "Cấp độ HSK",
+        "login": "Đăng nhập",
+        "startLearning": "Bắt đầu học",
+        "language": "Ngôn ngữ"
+    },
+    "Home": {
+        "title": "Học tiếng Trung một cách thông minh",
+        "subtitle": "Làm chủ từ vựng, thẻ ghi nhớ và các cấp độ HSK cùng XueXi Hanyu.",
+        "startLearning": "Bắt đầu học",
+        "browseLessons": "Xem bài học",
+        "featuresTitle": "Tính năng",
+        "features": {
+            "vocabulary": {
+                "title": "Bài học từ vựng",
+                "description": "Các bài học tương tác để xây dựng vốn từ vựng tiếng Trung cơ bản của bạn."
+            },
+            "flashcards": {
+                "title": "Thẻ ghi nhớ",
+                "description": "Thẻ ghi nhớ lặp lại ngắt quãng giúp ghi nhớ hiệu quả."
+            },
+            "dictionary": {
+                "title": "Từ điển tiếng Trung",
+                "description": "Từ điển toàn diện với bính âm và thứ tự nét bút."
+            }
+        },
+        "hskTitle": "Lộ trình học HSK",
+        "demoTitle": "Máy dịch tiếng Trung",
+        "demoPlaceholder": "Nhập văn bản tiếng Trung (ví dụ: 你好)",
+        "demoButton": "Dịch",
+        "demoChinese": "Tiếng Trung",
+        "demoPinyin": "Bính âm",
+        "demoEnglish": "Tiếng Anh",
+        "demoVietnamese": "Tiếng Việt",
+        "demoNotFound": "Không tìm thấy từ",
+        "ctaTitle": "Sẵn sàng bắt đầu học tiếng Trung?",
+        "ctaButton": "Bắt đầu học ngay"
+    }
+}
